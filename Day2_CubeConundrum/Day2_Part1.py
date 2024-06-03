@@ -5,5 +5,6 @@ fList = f.readlines()
 
 print(fList[0])
 
+
 # Close file
 f.close()
