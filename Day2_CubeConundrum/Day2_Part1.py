@@ -14,6 +14,7 @@ def SplitVariousDelimiters(str,dels):
     # The usual split function only split a string by whitespace (\t,\r,\n,\f and spaces), hence the idea of adding a space to the delimiters
     resSplit = str.split()
 
+
     # The function will return a list due to the split
     return resSplit
 
